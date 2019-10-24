@@ -4,7 +4,7 @@ This notebook shows a simple exercise of how to use pandas to read data, combine
 At the same time, it shows the dramatic decline of Italian demographics from the 80s to today.
 
 ## Data
-Data from the [Italian Institute of Statistics](www.istat.it), easily downloadble [here](http://demo.istat.it/index.html).
+Data from the [Italian Institute of Statistics](www.istat.it), easily downloadable [here](http://demo.istat.it/index.html).
 I had to manually download edit the single text files to make them readable.
 Data in the `data` folder numbered 1-5 corresponds to regional statistics, which I haven't used so far.
 Also, demographics by age is available.
